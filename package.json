@@ -1,0 +1,17 @@
+{
+  "name": "loutfis-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "AndreasMtss#9859",
+  "license": "ISC",
+  "dependencies": {
+    "discord-buttons": "^4.0.0",
+    "discord-tictactoe": "^2.1.1",
+    "discord.js": "^12.5.3",
+    "got": "^11.8.2"
+  }
+}
